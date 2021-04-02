@@ -1,2 +1,2 @@
 # MY-First-Repository-
-I dint know anything.
+I dont know anything.
